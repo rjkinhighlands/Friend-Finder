@@ -3,7 +3,7 @@
 var friendList = [
   {
     name: 'Robert Kelly',
-    //profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+    favorite: 'Steely Dan',
     scores: [
       "4",
       "5",
