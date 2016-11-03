@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/rjkinhighlands/Friend-Finder/issues"
   },
-  "homepage": "https://github.com/rjkinhighlands/Friend-Finder#readme"
+  "homepage": "https://github.com/rjkinhighlands/Friend-Finder#readme",
+ "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "6.5.0"
+  }
 }

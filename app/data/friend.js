@@ -3,7 +3,7 @@
 var friendList = [
   {
     name: 'Robert Kelly',
-    favorite: 'Steely Dan',
+    favorite: 'Steely Dan Royal Scam',
     scores: [
       "4",
       "5",
